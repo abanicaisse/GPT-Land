@@ -5,7 +5,7 @@ import "./blog.css";
 
 const Blog = () => {
   return (
-    <div className="gpt3__blog section__padding" id="blog">
+    <div className="gpt3__blog section__padding section__max-width" id="blog">
       <div className="gpt3__blog-heading">
         <h1 className="gradient__text">
           A lot is happening, we are blogging about it

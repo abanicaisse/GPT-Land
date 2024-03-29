@@ -3,7 +3,7 @@ import "./cta.css";
 
 const CTA = () => {
   return (
-    <div className="gpt3__cta section__padding">
+    <div className="gpt3__cta section__padding section__max-width">
       <div className="gpt3__cta-content">
         <p>Request Early Access</p>
         <h3>Register today & start exploring the endless possibilities</h3>
