@@ -1,7 +1,7 @@
 # GPT-Land React SPA
 
 ![Home page](./src/assets/gpt-land-showcase1.png)<br /> <br />
-`try it live` [GPT-Land]()
+`try it live` [GPT-Land LIve ](https://gpt-land.netlify.app/)
 <br /><br />
 
 ## Skills practiced in this project
