@@ -1,6 +1,29 @@
-# React + Vite
+# GPT-Land React SPA
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Home page](./src/assets/gpt-land-showcase1.png)<br /> <br />
+`try it live` [GPT-Land]()
+<br /><br />
+
+## Skills practiced in this project
+
+- ### React Functional Components an their usability
+- ### React Folder and File structure best practices
+- ### CSS Flex & Grid
+- ### CSS BEM Model
+- ### CSS Animations
+- ### Media queries for smooth responsiveness on all devices
+- ### Deployment to Netlify
+- ### Transform a Figma design to a live React Application <br /><br />
+
+## Beautiful Design
+
+![Beautiful design](./src/assets/gpt-land-showcase-design.png) <br /><br />
+
+## Integrated with a blog section
+
+![Blog section](./src/assets/gpt-land-showcase-blog.png) <br /><br /><br />
+
+## Built with @vite/React
 
 Currently, two official plugins are available:
 
